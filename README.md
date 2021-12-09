@@ -1,2 +1,2 @@
 # NintendoWebsite-
-Website created with Bootstrap v5.0 - Js -HTML-CSS
+Website created with Bootstrap v5.0 - JavaScript, HTML5 and CSS3
